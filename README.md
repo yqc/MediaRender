@@ -1,3 +1,5 @@
+DLNA接收端 DMR 
+
 a MediaRender Player run in Android Platform 
 ===========
 MediaRender is a DLNA device(DMR) that can be found and control<br />  It uses the framework of Platinum
